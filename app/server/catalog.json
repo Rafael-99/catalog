@@ -1,0 +1,65 @@
+[
+    {
+        "id": "el1",
+        "name": "Alhambra 6.203 Classical Student 2C A ",
+        "img": "https://guitar-guitar.ru/upload/iblock/b73/b731ea6841dda08a432c1fa194d40709.jpg",
+        "price": 158900
+    },
+    {
+        "id": "el2",
+        "name": "Alhambra 7.830 Open Pore 3OP",
+        "img": "https://guitar-guitar.ru/upload/iblock/5fe/5fe94859cd3e8cab975896207bad576e.jpg",
+        "price": 354600
+    },
+    {
+        "id": "el3",
+        "name": 'Alice A007C/BK Каподастр",
+        "img": "https://guitar-guitar.ru/upload/iblock/33d/33df14c53e84f3d63da14763956c66ef.jpg",
+        "price": 567600
+    },
+    {
+        "id": "el4",
+        "name": "Ibanez RG8-BK Электрогитара.",
+        "img": "https://guitar-guitar.ru/upload/iblock/2b0/2b09011f4613a264ffd54950b8f60371.jpg",
+        "price": 13900
+    },
+    {
+        "id": "el5",
+        "name": "Epiphone Les Paul Studio Worn Cherry CH HDWE',
+        "img": "https://guitar-guitar.ru/upload/iblock/1ca/1caeac269fcaa972d535eafa77136a8d.jpg",
+        "price": 566540
+    },
+    {
+        "id": "el6",
+        "name": "Cort CR200-FBL Classic Rock Электрогитара.',
+        "img": "https://guitar-guitar.ru/upload/iblock/c0f/c0f0774c283588fbe9d5dd53388cd75a.jpg",
+        "price": 235600
+    },
+    {
+        "id": "el7",
+        "name": "Cort CR250-DBB Classic Rock Э",
+        "img": "https://guitar-guitar.ru/upload/iblock/2b0/2b09011f4613a264ffd54950b8f60371.jpg",
+        "price": 242500
+    },
+    {
+        "id": "el8",
+        "name": "Cort KX100-IO",
+        "img": "https://guitar-guitar.ru/upload/iblock/4e0/4e0c31c38f2ee3d475656e6067859d1e.jpg",
+        "price": 135700
+    },
+    {
+        "id": "el9",
+        "name": "Fender Squier Affinity Telecaster MN Butterscotch",
+        "img": "https://guitar-guitar.ru/upload/iblock/163/16376781b136ab7b2f1e2284a57d453f.jpg",
+        "price": 134000
+    },
+    {
+        "id": "el10",
+        "name": "Fender Squier Affinity Telecaster CPO Электрогитара", 
+        "img": "https://guitar-guitar.ru/upload/iblock/383/3837d7610f69618b19d6a51da61977c1.jpg",
+        "price": 590000
+    }
+
+    
+    
+]
